@@ -7,7 +7,7 @@
         <p class="lead">Örnek uygulamayı başarılı bir şekilde çalıştırdınız.</p>
 
         <p><a class="btn btn-lg btn-success" href="#">Modüller ve konfürgasyon!</a></p>
-		<p><a class="btn btn-lg btn-success" href="#">İlan Modülü</a></p>
+		<p><a class="btn btn-lg btn-success" href="ilanmodul/ilan">İlan Modülü</a></p>
     </div>
 
 </div>
